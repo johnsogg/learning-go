@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-func main() {
+func foo() {
 	var a string = "initial"
 	fmt.Println(a)
 	var x, y int = 2, 6
